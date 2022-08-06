@@ -1,0 +1,1 @@
+public enum Enum_Menu_PlayerOverlayComponent{ Panel_Income, Slot_1, P_TXT_Player_HighScore, Slot_2, P_TXT_Player_TotalCoin, Slot_3, P_TXT_Player_GemPremium, Slot_4, P_TXT_Player_GemNonPremium, PlayerCurrentScoreText}

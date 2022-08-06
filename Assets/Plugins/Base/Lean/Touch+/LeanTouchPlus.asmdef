@@ -1,0 +1,11 @@
+{
+    "name": "LeanTouchPlus",
+    "references": [
+        "LeanCommon",
+        "LeanTouch",
+        "UnityEngine.UI",
+        "UnityEditor.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

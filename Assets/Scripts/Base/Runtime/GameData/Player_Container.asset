@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4f8ee81150f0b24db543e8136abdd76, type: 3}
+  m_Name: Player_Container
+  m_EditorClassIdentifier: 
+  Data_Player:
+    Data_MaxHealth: 0
+    Data_MovementSpeed: 0
+    Data_JumpForce: 0
+    Data_HighScore: 0
+    Data_TotalCoin: 0
+  Data_RemoteConfig:
+    GameLanguage: english
+    GameVersion: 1.0.0

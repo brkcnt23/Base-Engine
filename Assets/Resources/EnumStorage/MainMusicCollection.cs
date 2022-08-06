@@ -1,0 +1,1 @@
+public enum Enum_MainMusicCollection{ B_AutoClick}

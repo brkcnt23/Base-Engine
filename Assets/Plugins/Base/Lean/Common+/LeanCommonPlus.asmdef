@@ -1,0 +1,16 @@
+{
+    "name": "LeanCommonPlus",
+    "references": [
+        "LeanCommon",
+        "UnityEngine.UI",
+        "UnityEditor.UI"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

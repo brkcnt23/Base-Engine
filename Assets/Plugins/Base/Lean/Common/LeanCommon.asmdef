@@ -1,0 +1,10 @@
+﻿{
+	"name": "LeanCommon",
+    "references": [
+        "Unity.InputSystem",
+        "UnityEngine.UI",
+        "UnityEditor.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

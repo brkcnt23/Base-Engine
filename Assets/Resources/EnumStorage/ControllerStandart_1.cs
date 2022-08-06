@@ -1,0 +1,1 @@
+public enum Enum_AnimControllerStandart_1{ Idle_Breathing = 763616967, Attack_Jump_1 = 1807622736, Attack_Round_1 = 766919554, Attack_Standing_1 = 1097488955, Attack_Standing_Kick = -310845863, Crouched_Walk = -1901989214, Jump_1 = -546053831, Run_Fast = -522396792, Run_Slow = -255990895, Walk_1 = 1570040522, Walk_2 = -996295824}
